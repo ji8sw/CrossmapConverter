@@ -1,6 +1,5 @@
 # CrossmapConverter
 A Python tool to convert GTA 5 native crossmaps to C++ array format. 
-You can find updated crossmaps [here](https://github.com/ZeddMOCO/GTA-V-Crossmap-1.68)
 # Usage
 1. Open with Python (Made with 3.11)
 2. Input where you have stored your raw crossmaps
